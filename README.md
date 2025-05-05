@@ -17,7 +17,7 @@ A lightweight and intuitive app for creating pixel art and animations — perfec
 ## 📱 Platforms
 
 Available for:  
-✅ Android (Jetpack Compose)
+✅ Android (Mobile Only)
 
 ## Android Studio Setup
 1. Clone the repository
