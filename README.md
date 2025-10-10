@@ -19,6 +19,20 @@ A lightweight and intuitive app for creating pixel art and animations — perfec
 Available for:  
 ✅ Android (Mobile Only)
 
+## 📲 Download & Install
+
+You can download the latest version of the app directly from the **[Releases](../../releases)** section of this repository.
+
+### Steps
+
+1. Go to the [**Releases**](../../releases) page.  
+2. Find the latest release.  
+3. Download the `.apk` file (for example: app-release.apk`).  
+4. On your Android device:
+   - Open **Settings → Security → Install unknown apps**, and enable it for your browser or file manager (if needed).  
+   - Tap the downloaded APK file to install it.  
+5. Launch the app and enjoy! 🎉
+
 ## Android Studio Setup
 1. Clone the repository
 ```bash
