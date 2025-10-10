@@ -74,7 +74,7 @@ Please fork the repo and submit a pull request. For major changes, open an issue
 
 ## 📄 License
 
-MIT License. See [`LICENSE`](./LICENSE) for more info.
+Apache-2.0 License. See [`LICENSE`](./LICENSE) for more info.
 
 ## 💬 Contact
 
